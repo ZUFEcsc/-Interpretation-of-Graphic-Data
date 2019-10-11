@@ -1,4 +1,4 @@
-# Interpretation-of-Graphic-Data#
+# Interpretation-of-Graphic-Data
 
 This is a big job I wrote in Java in my freshman year.In this work,my team members have helped me a lot .Thanks very much for my team members.
 It mainly uses data visualization to analyze and present graph data. 
